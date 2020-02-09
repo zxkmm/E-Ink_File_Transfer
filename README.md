@@ -1,5 +1,5 @@
 # B-W-UI-QieZi-Send
-<br>建设中，请持续关注</br>
+<br>非常抱歉由于最近中国政府屏蔽了github导致我无法push上传代码到此仓库</br>
 <br>B-W-UI-WiFi file Transfer Made for E-INK screen Android device</br>
 <br>茄子快传魔改版，去除动画和彩色素材，适配E-INK屏幕。安卓9.0以上不兼容。</br>
 <br>本人仅做修改操作，原版本是网上佚名大神的精简版，仅按中华人民共和国产权法规定：</br>
