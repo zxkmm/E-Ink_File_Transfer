@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/progressitem" android:background="#ffffffff" android:paddingLeft="12.0dip" android:layout_width="fill_parent" android:layout_height="64.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/entity_icon" android:layout_width="43.0dip" android:layout_height="43.0dip" android:scaleType="centerCrop" />
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="26.0dip" android:layout_weight="1.0">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="12.0sp" android:typeface="sans" android:textColor="#ff555555" android:ellipsize="middle" android:layout_gravity="center_vertical" android:id="@id/title" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:singleLine="true" android:layout_weight="1.0" />
+            <TextView android:textSize="12.0sp" android:textColor="#ffb5b5b5" android:id="@id/progress_record" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        </LinearLayout>
+        <ProgressBar android:id="@id/progress" android:layout_width="fill_parent" android:layout_height="8.0dip" android:layout_marginTop="5.0dip" android:layout_marginBottom="4.0dip" android:indeterminateOnly="false" android:progressDrawable="@drawable/anyshare_send_receive_progressbar" style="?android:attr/progressBarStyleHorizontal" />
+        <TextView android:textSize="12.0sp" android:typeface="sans" android:textColor="#fff97a47" android:layout_gravity="center_vertical" android:id="@id/failed" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/anyshare_progress_failed" android:lines="1" />
+        <RelativeLayout android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="12.0sp" android:textColor="#ffb5b5b5" android:id="@id/entity_type" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_alignParentLeft="true" />
+            <TextView android:textSize="12.0sp" android:textColor="#ffb5b5b5" android:id="@id/progress_percent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+    </LinearLayout>
+    <Button android:textSize="16.0sp" android:textColor="#ffffffff" android:gravity="center" android:layout_gravity="center|right" android:id="@id/operation_receive_icon" android:background="@drawable/anyshare_button_highlight_bg" android:visibility="gone" android:layout_width="94.0dip" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_marginRight="14.0dip" android:minHeight="30.0dip" />
+    <Button android:layout_gravity="center|right" android:id="@id/operation_send_icon" android:background="@drawable/anyshare_send_operation_icon_cancel" android:visibility="gone" android:layout_width="26.0dip" android:layout_height="26.0dip" android:layout_marginLeft="12.0dip" android:layout_marginRight="14.0dip" />
+</LinearLayout>

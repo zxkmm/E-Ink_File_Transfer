@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@drawable/anyshare_tabs_all_bg" android:layout_width="fill_parent" android:layout_height="30.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:layout_width="@dimen/content_title_bar_tab_width" android:layout_height="fill_parent" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/titles" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

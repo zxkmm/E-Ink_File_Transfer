@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="photo_grid_column_width">100.0dip</dimen>
+    <dimen name="common_listview_divider_height">1.0px</dimen>
+    <dimen name="content_title_bar_tab_width">80.0dip</dimen>
+</resources>

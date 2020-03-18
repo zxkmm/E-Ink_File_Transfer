@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/common_view" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/anyshare_history_item_common" />
+    <RelativeLayout android:id="@id/footer_view" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:layout_marginBottom="18.0dip">
+        <TextView android:textSize="12.0sp" android:textColor="#ff333333" android:gravity="center" android:id="@id/footer_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/anyshare_history_loading_tip" android:layout_centerInParent="true" />
+        <ProgressBar android:layout_width="26.0dip" android:layout_height="26.0dip" android:layout_marginRight="6.0dip" android:indeterminateDrawable="@drawable/anyshare_progressbar_orange_bg" android:layout_toLeftOf="@id/footer_text" />
+    </RelativeLayout>
+</FrameLayout>

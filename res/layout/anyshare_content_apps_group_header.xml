@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="@drawable/anyshare_content_album_title_bg" android:layout_width="fill_parent" android:layout_height="48.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:layout_weight="1.0">
+        <ImageView android:layout_gravity="center|left" android:id="@id/extended_image" android:visibility="gone" android:layout_width="10.0dip" android:layout_height="48.0dip" android:layout_marginLeft="6.0dip" android:layout_marginBottom="0.0dip" />
+        <TextView android:textSize="18.0sp" android:textColor="#ff333333" android:ellipsize="middle" android:gravity="center|left" android:layout_gravity="center|left" android:id="@id/group_name" android:layout_width="fill_parent" android:layout_height="48.0dip" android:layout_marginLeft="16.0dip" android:text="group name" android:singleLine="true" />
+    </LinearLayout>
+    <include layout="@layout/anyshare_content_album_operate" />
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@drawable/anyshare_activity_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="top" android:id="@id/content_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="43.0dip" />
+    <include layout="@layout/anyshare_view_title_bar" />
+</FrameLayout>

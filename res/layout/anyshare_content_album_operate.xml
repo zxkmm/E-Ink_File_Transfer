@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center|right" android:id="@id/operation" android:layout_width="64.0dip" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:background="@drawable/anyshare_content_album_seperate_line" android:layout_width="wrap_content" android:layout_height="38.0dip" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip" />
+    <TextView android:textSize="16.0sp" android:textColor="#ff757575" android:layout_gravity="center" android:id="@id/pick_all" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/anyshare_content_album_select" />
+    <ImageView android:layout_gravity="center" android:id="@id/check" android:visibility="invisible" android:layout_width="22.0dip" android:layout_height="22.0dip" android:src="@drawable/anyshare_photo_check_on" />
+</FrameLayout>

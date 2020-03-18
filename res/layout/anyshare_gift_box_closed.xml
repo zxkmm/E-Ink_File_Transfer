@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center|left" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:textColor="#ffdd5d37" android:gravity="bottom|center" android:layout_gravity="center|left" android:id="@id/gift_box_closed" android:background="@drawable/anyshare_gift_box_closed" android:paddingBottom="10.0dip" android:clickable="true" android:layout_width="40.0dip" android:layout_height="84.0dip" />
+</FrameLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/music_fragment" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:gravity="center" android:layout_gravity="center" android:paddingLeft="0.0dip" android:paddingRight="0.0dip" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <FrameLayout android:id="@id/music_content" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.lenovo.anyshare.content.base.PinnedExpandableListView android:gravity="center" android:id="@id/music_artist" android:layout_width="fill_parent" android:layout_height="fill_parent" android:cacheColorHint="#00000000" android:groupIndicator="@null" android:childDivider="#00c6cbcd" android:horizontalSpacing="0.0dip" android:verticalSpacing="0.0dip" android:divider="#00c6cbcd" android:dividerHeight="@dimen/common_listview_divider_height" />
+            <com.lenovo.anyshare.content.base.PinnedExpandableListView android:gravity="center" android:id="@id/music_album" android:layout_width="fill_parent" android:layout_height="fill_parent" android:cacheColorHint="#00000000" android:groupIndicator="@null" android:childDivider="#00d9d9d9" android:horizontalSpacing="0.0dip" android:verticalSpacing="0.0dip" android:divider="#00c6cbcd" android:dividerHeight="@dimen/common_listview_divider_height" />
+            <ListView android:gravity="center" android:id="@id/music_grid" android:layout_width="fill_parent" android:layout_height="fill_parent" android:cacheColorHint="#00000000" android:horizontalSpacing="0.0dip" android:verticalSpacing="0.0dip" android:divider="#00d9d9d9" android:dividerHeight="@dimen/common_listview_divider_height" />
+        </FrameLayout>
+        <ProgressBar android:layout_gravity="center" android:id="@id/music_progress" android:visibility="visible" android:layout_width="50.0dip" android:layout_height="50.0dip" android:indeterminateDrawable="@drawable/anyshare_progressbar_orange_bg" />
+        <TextView android:textSize="18.0sp" android:textColor="#ff333333" android:gravity="center" android:layout_gravity="center" android:id="@id/music_info" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </FrameLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/music_buttons" android:layout_width="fill_parent" android:layout_height="48.0dip">
+        <Button android:textSize="18.0sp" android:textColor="@color/anyshare_util_setting_text_color" android:gravity="center" android:id="@id/music_all_button" android:background="@drawable/anyshare_content_bottom_tab_left_btn" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/anyshare_content_music_tab_all" android:layout_weight="1.0" />
+        <Button android:textSize="18.0sp" android:textColor="@color/anyshare_util_setting_text_color" android:gravity="center" android:id="@id/music_artist_button" android:background="@drawable/anyshare_content_bottom_tab_right_btn" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/anyshare_content_music_tab_artist" android:layout_weight="1.0" />
+        <Button android:textSize="18.0sp" android:textColor="@color/anyshare_util_setting_text_color" android:gravity="center" android:id="@id/music_album_button" android:background="@drawable/anyshare_content_bottom_tab_right_btn" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/anyshare_content_music_tab_album" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

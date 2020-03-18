@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout android:id="@id/main_container" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/main_frame" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.lenovo.anyshare.content.ContentPagers android:id="@id/pick_content_pagers" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <TextView android:textSize="14.0sp" android:textColor="#ffffffff" android:ellipsize="end" android:gravity="center" android:layout_gravity="center|right|top" android:id="@id/single_share_info" android:background="@drawable/anyshare_content_shared_tip_bg" android:paddingLeft="20.0dip" android:visibility="visible" android:layout_width="183.0dip" android:layout_height="30.0dip" android:layout_marginTop="40.0dip" android:text="@string/anyshare_share_help_info_1" android:singleLine="true" />
+        <TextView android:textSize="14.0sp" android:textColor="#ffffffff" android:ellipsize="end" android:gravity="center" android:layout_gravity="center|right|top" android:id="@id/share_success_info" android:background="@drawable/anyshare_content_shared_tip_bg" android:paddingLeft="20.0dip" android:visibility="invisible" android:layout_width="183.0dip" android:layout_height="30.0dip" android:layout_marginTop="53.0dip" android:singleLine="true" />
+        <com.lenovo.anyshare.widget.GiftBox android:id="@id/gift_box" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+</AbsoluteLayout>

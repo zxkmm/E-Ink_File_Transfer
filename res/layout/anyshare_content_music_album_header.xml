@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="@drawable/anyshare_content_album_title_bg" android:paddingTop="0.0dip" android:paddingBottom="0.0dip" android:layout_width="fill_parent" android:layout_height="38.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center|left" android:id="@id/music_album_icon" android:background="@drawable/anyshare_content_music_album_icon" android:paddingLeft="0.0dip" android:paddingTop="5.0dip" android:paddingRight="7.0dip" android:paddingBottom="5.0dip" android:visibility="gone" android:layout_width="46.0dip" android:layout_height="38.0dip" android:layout_marginLeft="10.0dip" android:scaleType="centerCrop" />
+    <LinearLayout android:layout_gravity="center|left" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="26.0dip" android:layout_weight="1.0">
+        <TextView android:textSize="18.0sp" android:textColor="#ff333333" android:ellipsize="middle" android:gravity="left" android:layout_gravity="center|left" android:id="@id/music_album_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="album name" android:singleLine="true" />
+        <TextView android:textSize="12.0sp" android:textColor="#ff757575" android:ellipsize="end" android:gravity="left" android:layout_gravity="center|left" android:id="@id/music_album_songs_count" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="number of songs" android:singleLine="true" />
+    </LinearLayout>
+    <include layout="@layout/anyshare_content_album_operate" />
+</LinearLayout>

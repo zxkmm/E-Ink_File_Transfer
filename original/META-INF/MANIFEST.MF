@@ -1,0 +1,610 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable/anyshare_history_menu_bg.xml
+SHA1-Digest: oAPoHV7UGUmyX5hNKMhrXyjYLTw=
+
+Name: res/layout/anyshare_activity_discover.xml
+SHA1-Digest: HmEvxc1c0nW+UN/bR6uWqQ1nKj4=
+
+Name: res/drawable-hdpi-v4/anyshare_send_operation_icon_finish.png
+SHA1-Digest: 31/js9wpqLsUoXtJlOPtyvOpNQo=
+
+Name: res/drawable-hdpi-v4/anyshare_content_music_grid_item_bg.png
+SHA1-Digest: EAKrkiq5QP+41DsXS+W8ctfKdnw=
+
+Name: res/drawable-hdpi-v4/anyshare_progressbar_orange.png
+SHA1-Digest: Fca6wou4AYRLxyaJ7GfnNKPgXWo=
+
+Name: res/drawable-hdpi-v4/anyshare_content_bottom_tab_btn_left_presse
+ d.9.png
+SHA1-Digest: RGuBzUgJgIJY69RXGpNXBfdKSao=
+
+Name: res/layout/anyshare_progress_listitem.xml
+SHA1-Digest: wdDe2Jb9B0na4fHfSvK9aAXmffk=
+
+Name: res/layout/anyshare_content_music_album_header.xml
+SHA1-Digest: k9Eaz03K62xmt36OZH1YX7J/+Rk=
+
+Name: res/layout/sus_updateinfo_dialog.xml
+SHA1-Digest: kxIg8OY2SPZERkbNFPQpXYY8CQo=
+
+Name: res/drawable/anyshare_history_send_bg.xml
+SHA1-Digest: iZ4txiGVqbIO76Pbn9UTAie2rPM=
+
+Name: res/drawable-hdpi-v4/anyshare_ic_launcher.png
+SHA1-Digest: hK0ePLvWCksDz4BKdyOdUHgbNjo=
+
+Name: res/drawable-hdpi-v4/anyshare_send_button_bottom_left_disabled.9
+ .png
+SHA1-Digest: gHNBcmmdH/2w5PcI8iMmtkINTIA=
+
+Name: res/drawable-hdpi-v4/anyshare_history_footnote_file.png
+SHA1-Digest: lZMpmjJdQ4L79zb6diIQoruZtJQ=
+
+Name: res/drawable-hdpi-v4/anyshare_content_music_album_icon.png
+SHA1-Digest: xCgKo5TACxz8Dn+SaEdsH1XrzNc=
+
+Name: res/layout/anyshare_fragment_express_entry.xml
+SHA1-Digest: MLid2MuGRdJCRWzC/QYZOhnkGgw=
+
+Name: res/layout/anyshare_content_contact_list_info.xml
+SHA1-Digest: 7DXDWA627sqUiq8p8AgeQHxZ8I0=
+
+Name: res/drawable-hdpi-v4/anyshare_content_file_button_return.png
+SHA1-Digest: cuEeUHc5LXIiS/d/SD4L7aJEtBo=
+
+Name: res/drawable-hdpi-v4/anyshare_send_receive_progress_second.png
+SHA1-Digest: 7DTuRvRlTHDOLprsN7iDiV2TKyA=
+
+Name: res/layout/anyshare_history_item.xml
+SHA1-Digest: D/X5U/iDp5J1xNySFPKe6rSXf/w=
+
+Name: res/drawable-hdpi-v4/anyshare_button_normal_normal.9.png
+SHA1-Digest: hKfr/enhA57c5CHyBtODSi/+2C0=
+
+Name: res/drawable-hdpi-v4/anyshare_content_file_btn_normal.9.png
+SHA1-Digest: FKmOrI74VFipgzMY6QMzt9eWkrY=
+
+Name: res/layout/anyshare_dialog_account_initial.xml
+SHA1-Digest: Rh7EWndfN82rP2I+TKcSu6mj8NE=
+
+Name: res/layout/sus_installapk_notification.xml
+SHA1-Digest: rvrqPqbjSqrfQRv99JqFaRZ6S5A=
+
+Name: res/drawable-hdpi-v4/anyshare_content_album_title_bg.9.png
+SHA1-Digest: 2586P2OlQrYjwTjS93DjiRJjCHI=
+
+Name: res/drawable/anyshare_button_normal_bg.xml
+SHA1-Digest: V4gZATmP/Or+LTNdxxyeUeUnje8=
+
+Name: res/drawable/anyshare_send_button_bottom_left_bg.xml
+SHA1-Digest: TDBooFl0rXOHTv8/pCXxO1vIgxg=
+
+Name: res/drawable-hdpi-v4/anyshare_content_contact_grid_item_bg.png
+SHA1-Digest: qkDnr39o5HU9EuJe20sU+yGPIMQ=
+
+Name: res/layout/anyshare_activity_receive.xml
+SHA1-Digest: WV6LWXYWbIA/+io0OfJst/OgIwA=
+
+Name: res/drawable-hdpi-v4/anyshare_progressbar_hotspot_orange.png
+SHA1-Digest: PdId9s5D57I8L1aab4x+1Ok+H34=
+
+Name: res/drawable-hdpi-v4/anyshare_express_main_send_pressed.9.png
+SHA1-Digest: YaoiWh3z+8UpsUBsn4i6QnKtfOA=
+
+Name: res/layout/anyshare_content_apps_fragment.xml
+SHA1-Digest: nnozJCDAeSD86fnHQoR5hp8D9vU=
+
+Name: res/drawable/anyshare_content_file_btn.xml
+SHA1-Digest: tt5pEk0jG9HWoXyLzL/1ILAfbOs=
+
+Name: res/drawable/anyshare_express_main_recv_bg.xml
+SHA1-Digest: cL8XJCLePrBlp6vAmg4P6IyGFBg=
+
+Name: res/drawable-hdpi-v4/anyshare_express_main_send_normal.9.png
+SHA1-Digest: Hcl8jDSP2mYhJ9jV8Qhuek/JF8Q=
+
+Name: res/drawable-hdpi-v4/anyshare_content_album_seperate_line.png
+SHA1-Digest: mDISUkVn8aDR2J6JzwL06koIqaY=
+
+Name: res/layout/anyshare_activity_history.xml
+SHA1-Digest: IfuTnpMn0BYs4j6jKiKw6DZ+rWo=
+
+Name: res/drawable-hdpi-v4/anyshare_gift_box_title.9.png
+SHA1-Digest: 7BO2xZ4LBy2rm3kexMLziF0IH0Q=
+
+Name: res/drawable-hdpi-v4/anyshare_titlebar_return_pressed.png
+SHA1-Digest: LvhILg+mC2xpX15LI3uHI+zey2I=
+
+Name: res/drawable-hdpi-v4/anyshare_photo_check_on.png
+SHA1-Digest: p4MvOu6KsUV8pwPP7y4jsa060kk=
+
+Name: res/drawable/anyshare_dialog_common_left_bg.xml
+SHA1-Digest: +S8bzwkBcKxcc8/uLPJ/k8jVvXs=
+
+Name: res/layout/anyshare_content_apps_grid_item.xml
+SHA1-Digest: tvcKzH9+oXpTiZA1ZCeDhqwUdJk=
+
+Name: res/drawable-hdpi-v4/anyshare_history_footnote_music.png
+SHA1-Digest: ktqueWcJAUkEVDcKHaBS2g6V2UQ=
+
+Name: res/layout/anyshare_view_title_bar.xml
+SHA1-Digest: DrWfm+gFeGXGKfZhydvl7mgC5ec=
+
+Name: res/drawable-hdpi-v4/anyshare_express_main_user_info_bg.jpg
+SHA1-Digest: EhOVdWHWiyivWK9HBEldMZDEvtU=
+
+Name: res/drawable-hdpi-v4/anyshare_user_icon_1.png
+SHA1-Digest: O0xTdHjTuVZbtm1dVRkWHqUsdc8=
+
+Name: res/layout/sus_download_notification.xml
+SHA1-Digest: /OZDjZGN71OU1e9yFdDmYcPMwws=
+
+Name: res/drawable-hdpi-v4/anyshare_user_icon_5.png
+SHA1-Digest: ASoQj/3nA3OE49cI5sDCV/pgsWE=
+
+Name: res/layout/anyshare_dialog_confirm.xml
+SHA1-Digest: oirBdjtk22sbO+RBKfl1uFSNY9M=
+
+Name: res/layout/anyshare_content_contact_list_header.xml
+SHA1-Digest: xmefsI3xdGXbFN2BTKzUSuM0WS4=
+
+Name: res/drawable-hdpi-v4/anyshare_button_normal_pressed.9.png
+SHA1-Digest: kyngP4jxH4cVtJOVr60GuUTnaSg=
+
+Name: res/layout/anyshare_gift_box_opened.xml
+SHA1-Digest: V6O4IJAgAFmwBypJq3zS729iQ4E=
+
+Name: res/drawable-hdpi-v4/anyshare_gift_box_closed.png
+SHA1-Digest: BIbHZo1O+4qEGxYwjj+DxHheWfw=
+
+Name: res/drawable-hdpi-v4/anyshare_button_highlight_normal.9.png
+SHA1-Digest: /kxXANUs9dgdF9lbgrKEZHYheGc=
+
+Name: res/drawable/anyshare_button_clear_history_bg.xml
+SHA1-Digest: BTwJuvwfS9sKWg/MoF8WAZWnjKo=
+
+Name: res/drawable-hdpi-v4/anyshare_user_icon_3.png
+SHA1-Digest: u8KdcaaGvdFlq3uREr3HPO///9w=
+
+Name: res/layout/anyshare_fragment_history.xml
+SHA1-Digest: FklvYWZmL9WHuiF8PlR6JYtPqZk=
+
+Name: res/layout/anyshare_fragment_browser.xml
+SHA1-Digest: AUR4yXxjhbBtrCpuSese2DuF9p8=
+
+Name: res/drawable-hdpi-v4/anyshare_dialog_common_one_bg_normal.9.png
+SHA1-Digest: EUgO6MRaRSPwrxbWMGLfubZv6TY=
+
+Name: res/drawable-hdpi-v4/anyshare_history_time_bg.9.png
+SHA1-Digest: tTWfYljk8t51YIpjBTN+sKbIIH4=
+
+Name: res/drawable-hdpi-v4/anyshare_tabs_select_bg.png
+SHA1-Digest: hNCes4JUwcKRZHSzKDWj/9dRbkM=
+
+Name: res/color/anyshare_bottom_button_text_color.xml
+SHA1-Digest: BFzlRgo4c6ZPND7Vf/UOgCmdic0=
+
+Name: res/layout/anyshare_content_contact_list_item.xml
+SHA1-Digest: Ymn2zPnY6dajnwuzNp6RdYtS4vo=
+
+Name: res/drawable-hdpi-v4/anyshare_gift_box_opened.png
+SHA1-Digest: iE+4WGQSHz3yS6zp57ZUpaIJsVM=
+
+Name: res/drawable-hdpi-v4/anyshare_user_icon_7.png
+SHA1-Digest: etdUMp8h+TOtdqOgbHs1/4txSsA=
+
+Name: res/drawable-hdpi-v4/anyshare_history_receive_pressed.9.png
+SHA1-Digest: 3VgSSSKfJiAcMPXlyIj0aUjNhD0=
+
+Name: res/drawable-hdpi-v4/anyshare_dialog_common_right_bg_pressed.9.p
+ ng
+SHA1-Digest: tU/keJSFqY9xxqIGNgn5y4Pdju0=
+
+Name: res/drawable-hdpi-v4/anyshare_history_menu_bg_pressed.png
+SHA1-Digest: Bjk/gXB0SiP4FqLnMQ4ljvs4FCY=
+
+Name: res/layout/anyshare_content_photo_fragment.xml
+SHA1-Digest: 1lIi8SLVsWf5TvOEr+v8H7UgVAA=
+
+Name: res/layout/anyshare_content_video_list_item.xml
+SHA1-Digest: MjEY/POUNaWrYOEgD84XRv+es5A=
+
+Name: res/layout/anyshare_content_photo_album_header.xml
+SHA1-Digest: C0n4VzoQYSmOvoQSVoCthPA0Y+0=
+
+Name: res/drawable-hdpi-v4/anyshare_history_menu_delete_file.png
+SHA1-Digest: TkDc1as7RM9T4G/qLmUW5uhBOkc=
+
+Name: res/drawable-hdpi-v4/anyshare_content_bottom_tab_btn_right_press
+ ed.9.png
+SHA1-Digest: NSgQOg4bfGuyk8sWM9b3kybJ4No=
+
+Name: res/drawable-hdpi-v4/anyshare_history_footnote_photo.png
+SHA1-Digest: qm5+pETbMbRholuw8B0EhjURiEk=
+
+Name: res/layout/sus_customdef_notification_dialog.xml
+SHA1-Digest: wNQyik+04tBhjIs9YNfbmq6Tdwo=
+
+Name: res/layout/anyshare_gift_box_closed.xml
+SHA1-Digest: QLu167mg3F7zCgYeDDTrIR54eHU=
+
+Name: res/drawable-hdpi-v4/anyshare_content_app_album_icon.png
+SHA1-Digest: vsRpb+qmrR2dh6SelKOsB187sPo=
+
+Name: res/drawable-hdpi-v4/anyshare_history_send_normal.9.png
+SHA1-Digest: wFLwYZHXBdpAiimDEPZKZ5yWaPY=
+
+Name: res/drawable-hdpi-v4/anyshare_send_operation_icon_cancel.png
+SHA1-Digest: LDCCOyuMXF9XBTu3zSXRMwc3Xkg=
+
+Name: res/layout/anyshare_activity_send.xml
+SHA1-Digest: D5RDekvXykFazlUqjh4ummlkKVM=
+
+Name: res/drawable-hdpi-v4/anyshare_history_menu_bg_normal.png
+SHA1-Digest: A0XZvpHEzPAgpAsMcp90kg37nAk=
+
+Name: res/drawable/anyshare_button_highlight_bg.xml
+SHA1-Digest: Dvnhu/s8yL5AeYwMfDPWeCGCYfY=
+
+Name: res/drawable-hdpi-v4/anyshare_express_main_recv_normal.9.png
+SHA1-Digest: KFariLno+phmSEzW7Kzljc/gDd0=
+
+Name: res/color/anyshare_titlebar_button_text_color.xml
+SHA1-Digest: gXkUZk8LgDZb1X4X/sb93lreHCo=
+
+Name: res/layout/anyshare_gift_box_item.xml
+SHA1-Digest: rXBfjBI7MLFnC4ftuLuXL7JdxKU=
+
+Name: resources.arsc
+SHA1-Digest: 8RQ6gt6sFg7sxvVhfAUKzW3pEAc=
+
+Name: res/drawable-hdpi-v4/anyshare_util_setting_checkbutton_ball.png
+SHA1-Digest: hrAe1t8d1C0+E6TXEalfRJXxiPs=
+
+Name: res/drawable-hdpi-v4/anyshare_user_icon_8.png
+SHA1-Digest: c7w71IxRUDJlBXDmj7cRrvBeICI=
+
+Name: res/drawable-hdpi-v4/anyshare_history_receive_normal.9.png
+SHA1-Digest: w3D30OiF+esgWOFwNJ/7wKpFxxQ=
+
+Name: res/drawable/anyshare_express_main_send_bg.xml
+SHA1-Digest: ZjpXmrgYyzzeSFnWcs8ml1JmB18=
+
+Name: res/drawable-hdpi-v4/anyshare_history_footnote_apk.png
+SHA1-Digest: WaMOL/QxyY6ZHEQvroOnhZpFHm4=
+
+Name: res/layout/anyshare_content_music_list_item.xml
+SHA1-Digest: Iq5MyE3v06PsS2Y/CvlBpJZLEQE=
+
+Name: res/drawable-hdpi-v4/anyshare_util_setting_checkbutton_off.png
+SHA1-Digest: a2QYTZvu8cIuWK2Q9FzHO9EE+oA=
+
+Name: res/drawable/anyshare_dialog_common_one_bg.xml
+SHA1-Digest: mv/WnSoPcZ4WjTiEYOcegP3hWac=
+
+Name: res/layout/anyshare_content_file_menu_list_item.xml
+SHA1-Digest: aBeEk4Lba4udBfWhfg8kvUoH8ks=
+
+Name: res/layout/anyshare_history_item_common.xml
+SHA1-Digest: PR9KvTNiOOpimya6unFcQQaUyO0=
+
+Name: res/drawable-hdpi-v4/anyshare_invite_download.png
+SHA1-Digest: kGJduGLqpifejnxVU0CVPxc/yuE=
+
+Name: res/layout/anyshare_content_contact_fragment.xml
+SHA1-Digest: jzqXqTPIX19O7l57V2vkuInpgF4=
+
+Name: res/drawable-hdpi-v4/anyshare_discover_tips_bg.9.png
+SHA1-Digest: xcSD477F1hgJ2yPjdMUXuXVScxk=
+
+Name: res/drawable-hdpi-v4/anyshare_history_footnote_contact.png
+SHA1-Digest: bhzxkiqYi9E2Bm5Iv1CIP6iMkaY=
+
+Name: res/drawable-hdpi-v4/anyshare_express_main_recv_pressed.9.png
+SHA1-Digest: xf5g5fuPHSuxKH4AAM2mv0l/YiE=
+
+Name: res/drawable-hdpi-v4/anyshare_discover_baggage.png
+SHA1-Digest: bhSD18mMxi8fsZZ0LeBqoZTAB3s=
+
+Name: res/drawable-hdpi-v4/anyshare_history_menu_remove_record.png
+SHA1-Digest: DwejpCR7nCkm9E6wn0EK9Tuvwro=
+
+Name: res/layout/anyshare_content_titlebar_item.xml
+SHA1-Digest: a5mAgzDlQ71U0g32LsQxyGipdiQ=
+
+Name: lib/armeabi/libFreqFilter.so
+SHA1-Digest: 0P/AhUpyHEXcXIqX2yw4ffM1FoY=
+
+Name: res/drawable/anyshare_send_button_bottom_right_bg.xml
+SHA1-Digest: LHw6m01Uy+3bYEyO6hjooGATu0o=
+
+Name: res/drawable-hdpi-v4/anyshare_send_button_bottom_right_normal.9.
+ png
+SHA1-Digest: xFxhpkZW5n3dX7H0C50d294LpR0=
+
+Name: res/drawable-hdpi-v4/anyshare_history_menu_bg_disable.png
+SHA1-Digest: v42+R1Wo1ElW3lAGbnfeKRlnPrc=
+
+Name: res/drawable/anyshare_titlebar_bg.xml
+SHA1-Digest: YY0vB4l8E9azCeVrJlVdwmHUUmo=
+
+Name: res/drawable/anyshare_activity_bg.xml
+SHA1-Digest: PQizMHh6XArkIL81fx2IKcTtVGM=
+
+Name: res/drawable-hdpi-v4/anyshare_discover_timeout_bg.9.png
+SHA1-Digest: +GSaIOOk5Tv9wKuVL+RyJm5DVCo=
+
+Name: res/drawable-hdpi-v4/anyshare_button_clear_history_normal.png
+SHA1-Digest: JWRNa3MvELb5YdNPuhrxnHWquH4=
+
+Name: classes.dex
+SHA1-Digest: K2urdLRZfotg5kQj/o9SolcxpLo=
+
+Name: res/drawable-hdpi-v4/anyshare_content_file_button_down.png
+SHA1-Digest: 22D8D3nEz6LgdwSvqAufsyIm5vk=
+
+Name: res/drawable-hdpi-v4/anyshare_user_icon_2.png
+SHA1-Digest: o5kb7pF6mHyd830RUKpadqs1kpU=
+
+Name: res/layout/anyshare_content_apps_group_header.xml
+SHA1-Digest: MoKvkgaxbtUqNcZ9o5w0G8GM5mQ=
+
+Name: res/drawable-hdpi-v4/sus_notify_bg.png
+SHA1-Digest: Qr1tHwSq76a1uXk9Q5SKMSAQyEo=
+
+Name: res/layout/anyshare_progress_list.xml
+SHA1-Digest: dDqCumdq4fA3GPBbYHdvfC6VVc0=
+
+Name: res/layout/anyshare_activity_main.xml
+SHA1-Digest: NgrDSBcA4Y4SFRhJ8XVrvLwsWrI=
+
+Name: res/layout/anyshare_content_music_fragment.xml
+SHA1-Digest: 9bbP0QpPzVH6LUD15fCJKFDcl0w=
+
+Name: res/drawable-hdpi-v4/anyshare_dialog_common_bg.9.png
+SHA1-Digest: xWIHPtpa4N6h7HrGARHX3IFgQuE=
+
+Name: res/drawable-hdpi-v4/anyshare_user_icon_4.png
+SHA1-Digest: pKXNdsySWyH6CXf34HWd3qUeR+0=
+
+Name: lib/x86/libFreqFilter.so
+SHA1-Digest: +KCgVMFjYD9vedZOCvaB5cjdgF0=
+
+Name: res/drawable-hdpi-v4/anyshare_dialog_common_left_bg_pressed.9.pn
+ g
+SHA1-Digest: OxX8KKbbeEiXVPiOMXbUw5YwiGQ=
+
+Name: res/layout/anyshare_content_titlebar.xml
+SHA1-Digest: T4PWJtfOyczG3CP07k9D5LRj1LM=
+
+Name: res/drawable/anyshare_express_main_history_bg.xml
+SHA1-Digest: mHK6t9q/USPFxh1u9lhauHYdwuI=
+
+Name: res/layout/anyshare_content_file_fragment.xml
+SHA1-Digest: fXB0mQmqJIpJA6e9tH/kDvaIZyE=
+
+Name: res/drawable-hdpi-v4/anyshare_history_receive_cover.9.png
+SHA1-Digest: P6MXUrYjHWJghHvCZrPLa0SNhKI=
+
+Name: res/layout/anyshare_content_photo_grid_item.xml
+SHA1-Digest: rI9fl1EuPJyvYRlkbK+fz0ozCSw=
+
+Name: res/drawable-hdpi-v4/anyshare_tabs_all_bg.png
+SHA1-Digest: l0/maGX7um92QvBgHHGeOSdeZQY=
+
+Name: res/drawable-hdpi-v4/anyshare_history_send_cover.9.png
+SHA1-Digest: Y6kYHHxCJS0M1CMWr8RS1l1fjYg=
+
+Name: res/drawable-hdpi-v4/anyshare_button_clear_history_pressed.png
+SHA1-Digest: 2hyHbEe7BVInV6hlGKjgRDa7wpo=
+
+Name: res/layout/anyshare_content_file_list_item.xml
+SHA1-Digest: PeB3ydvo89HvGuAhyuj9E8mCLAg=
+
+Name: res/drawable-hdpi-v4/anyshare_button_clear_history_disabled.png
+SHA1-Digest: n+5ExE/a8qquAGqFzll9Vmm2rY8=
+
+Name: res/layout/anyshare_content_pick_activity.xml
+SHA1-Digest: uvK7ZvdbJF7M5eGsEStTMfs33vg=
+
+Name: res/drawable-hdpi-v4/anyshare_express_main_history_normal.png
+SHA1-Digest: qZS7rxGEr6kZgTug+bcU0DphbqA=
+
+Name: res/layout/anyshare_progress_bar.xml
+SHA1-Digest: EE+5maXYYLluNkZosl+f/Rig5Es=
+
+Name: res/drawable-hdpi-v4/anyshare_user_list_bg.9.png
+SHA1-Digest: /E9o+KVtTdCs6dg1XNYToD0iCkg=
+
+Name: res/drawable-hdpi-v4/anyshare_button_normal_disabled.9.png
+SHA1-Digest: vscOeq2NgRMMeRetThi1TKFpsLg=
+
+Name: res/layout/anyshare_content_video_fragment.xml
+SHA1-Digest: 2REv1LBhwg04RH9p0hlJeEc68Q4=
+
+Name: res/drawable-hdpi-v4/anyshare_titlebar_button_disable.9.png
+SHA1-Digest: ZiAdbBe0aECPpXcXlE1SQXLgXBc=
+
+Name: res/drawable-hdpi-v4/anyshare_user_input_bg.9.png
+SHA1-Digest: o9IduW2dEEQIe+10J9dr+TBcNMk=
+
+Name: res/drawable-hdpi-v4/anyshare_dialog_common_one_bg_pressed.9.png
+SHA1-Digest: V2wT550bpQ/9ETL6uF/hQEo9NSY=
+
+Name: res/drawable-hdpi-v4/anyshare_express_main_history_pressed.png
+SHA1-Digest: wAHWC1kuw05CCeSyfBT3Cf5OjF8=
+
+Name: res/layout/anyshare_content_album_operate.xml
+SHA1-Digest: TR/WMpoW2tCg+LjT3TV7fTs7AHo=
+
+Name: res/layout/anyshare_content_music_artist_header.xml
+SHA1-Digest: phOg2Zgcb11BmSGWEoKcjWohuUs=
+
+Name: res/drawable-hdpi-v4/anyshare_history_menu_view.png
+SHA1-Digest: u618hx1uzluxEprjiWysoG1Is6E=
+
+Name: res/drawable-hdpi-v4/anyshare_titlebar_button_pressed.9.png
+SHA1-Digest: 8GyRVZOfDihQCiqmlYz9awo7AII=
+
+Name: res/drawable/anyshare_history_receive_bg.xml
+SHA1-Digest: wq5+S21EmnDccd8EeCbgKEsz0AA=
+
+Name: res/drawable-hdpi-v4/anyshare_send_button_bottom_right_disabled.
+ 9.png
+SHA1-Digest: Mh0KAgwvqhuHCabSRDOgRleIr94=
+
+Name: res/drawable-hdpi-v4/anyshare_content_bottom_tab_btn_left_normal
+ .9.png
+SHA1-Digest: qDdmnuQGs8o7zgIVggZ4GHwpV/w=
+
+Name: res/drawable/anyshare_send_receive_progressbar.xml
+SHA1-Digest: Q/0A+IexnpxOem9goCvPpg23wRg=
+
+Name: res/layout/anyshare_fragment_discover.xml
+SHA1-Digest: wa3XWb/WTsIubGkuI0QiZyhYUSw=
+
+Name: res/drawable-hdpi-v4/anyshare_content_file_grid_unknown.png
+SHA1-Digest: nv62sGSzVowq/51HwwgrHO5ckUs=
+
+Name: res/drawable/anyshare_progressbar_orange_bg.xml
+SHA1-Digest: T70K7TMvD8tQoCLFV861FdycK7w=
+
+Name: res/drawable-hdpi-v4/anyshare_dialog_common_left_bg_normal.9.png
+SHA1-Digest: DUja8lH/fUoCrj5IhmUHeQGCxbs=
+
+Name: res/drawable-hdpi-v4/anyshare_content_file_grid_folder.png
+SHA1-Digest: KNn1ziXRwGfah/Sa8ZQhUSUDr6E=
+
+Name: res/drawable-hdpi-v4/anyshare_content_bottom_tab_btn_right_norma
+ l.9.png
+SHA1-Digest: olGXhxgs07K3GPEakZZSIfoZbok=
+
+Name: res/drawable-hdpi-v4/anyshare_send_button_bottom_left_pressed.9.
+ png
+SHA1-Digest: YAV9PLubfZophGMVdw/kypW70dg=
+
+Name: res/drawable-hdpi-v4/anyshare_discover_tips_icon.png
+SHA1-Digest: ejcFdqq0S2fkTvbz3zb+0Lf6yrE=
+
+Name: res/layout/anyshare_content_music_artist_item.xml
+SHA1-Digest: zAxyJGoxIyTd4Ye/R+hvCM5REpo=
+
+Name: res/drawable-hdpi-v4/anyshare_content_list_child_bg.9.png
+SHA1-Digest: XplUKrPxrb8mgQGTUxMH+ZQTG7M=
+
+Name: res/drawable-hdpi-v4/anyshare_user_icon_6.png
+SHA1-Digest: JWqROwpSBbSYHjUyYS6ZN2qPOvE=
+
+Name: res/drawable-hdpi-v4/anyshare_titlebar_return_normal.png
+SHA1-Digest: 226v2s693Ut0xFuieBZLyY21igw=
+
+Name: res/drawable-hdpi-v4/anyshare_content_photo_grid_item_bg.png
+SHA1-Digest: nVUFcoTzNKk0f7gmKmcwsRSWhIU=
+
+Name: res/drawable-hdpi-v4/sus_notification_install_icon.png
+SHA1-Digest: Z/gRlU5gUbBAdZhtAIN2y9uzdS4=
+
+Name: res/drawable-hdpi-v4/anyshare_content_file_btn_pressed.9.png
+SHA1-Digest: Up5zGnOfx1Ozk4L+IRfrAVB4mbU=
+
+Name: res/drawable-hdpi-v4/anyshare_content_video_grid_item_bg.png
+SHA1-Digest: MA8aKuhA6p07ac+Y5WdNTMjq4U0=
+
+Name: res/drawable-hdpi-v4/anyshare_content_video_album_icon.png
+SHA1-Digest: +xpYRf7bnHIbwmCh0gU1P3p6PQM=
+
+Name: res/drawable-hdpi-v4/anyshare_ic_header.png
+SHA1-Digest: fbJulp1qWOla7OAz0GQSxUjpqvE=
+
+Name: res/drawable/anyshare_content_bottom_tab_right_btn.xml
+SHA1-Digest: bxj2Nl9rAVHXt1Fr8tnEQLpaLso=
+
+Name: res/drawable-hdpi-v4/anyshare_result_empty.png
+SHA1-Digest: OGyXWN/oOHjDg+Sc/4p0gwC3Ve0=
+
+Name: res/drawable-hdpi-v4/anyshare_history_footnote_video.png
+SHA1-Digest: 3IsL1JSqebtZZLkFBtIN9NUMMvY=
+
+Name: res/drawable-hdpi-v4/anyshare_send_button_bottom_left_normal.9.p
+ ng
+SHA1-Digest: o2PoIPkzgGEEZCCjWCsjBwi28t0=
+
+Name: res/drawable/anyshare_titlebar_button_bg.xml
+SHA1-Digest: GXJp9o48wZnSeV7lIqgcEJgPwZI=
+
+Name: res/layout/anyshare_content_music_album_item.xml
+SHA1-Digest: qjZhI0RhtRGiu/i4TZqGt6pVSHQ=
+
+Name: res/drawable-hdpi-v4/anyshare_content_photo_album_icon.png
+SHA1-Digest: yKTdOvkBJVVaepA7t68uFE4kj90=
+
+Name: res/drawable/anyshare_dialog_common_right_bg.xml
+SHA1-Digest: xNEGpJygFZ7qtlQAzvptEGHYHYw=
+
+Name: res/drawable-hdpi-v4/anyshare_button_highlight_disabled.9.png
+SHA1-Digest: 36N54RfImme/iR8GuKqNmlpPU0A=
+
+Name: res/drawable-hdpi-v4/anyshare_content_shared_tip_bg.png
+SHA1-Digest: KSnk8BQL4Jg55mLy3TKiGWuQXKo=
+
+Name: res/layout/sus_notification_dialog.xml
+SHA1-Digest: u4Og670eqE9rfep045bNK9RJQDk=
+
+Name: res/drawable/anyshare_content_bottom_tab_left_btn.xml
+SHA1-Digest: hi/7lyz1E2DakDb7MGlNANuH8xg=
+
+Name: res/drawable-hdpi-v4/anyshare_titlebar_button_normal.9.png
+SHA1-Digest: 0hNgqtRpW2sTvEz/ZREvgw49UmM=
+
+Name: res/drawable-hdpi-v4/anyshare_history_user_info_bg.9.png
+SHA1-Digest: 9/opciOfdIl6VqRjEQwb7V3TT64=
+
+Name: res/drawable-hdpi-v4/anyshare_send_button_bottom_right_pressed.9
+ .png
+SHA1-Digest: OXuR6roYRHwkS0QoogrP+reyJ4U=
+
+Name: res/color/anyshare_util_setting_text_color.xml
+SHA1-Digest: Kvq6Lb+PyJY9z095JNQHFXSDxY4=
+
+Name: res/drawable-hdpi-v4/anyshare_gift_box_bg.9.png
+SHA1-Digest: Dvf2GzglQPDnGu8WDhvxr1F6gos=
+
+Name: res/layout/anyshare_activity_base_title.xml
+SHA1-Digest: r6yanwyeyi07HmA75lXcdQNGPnw=
+
+Name: res/layout/anyshare_content_pagers.xml
+SHA1-Digest: AwaU5DjBJfvS36VLNVehLhhbU/o=
+
+Name: res/drawable/anyshare_titlebar_return_bg.xml
+SHA1-Digest: Bk53n/rpuvVvZwVVLt3b5O7sajg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: TjIgtVD4vdpdUl+MAAtGhJ/n49k=
+
+Name: res/drawable-hdpi-v4/anyshare_send_receive_progress_bg.png
+SHA1-Digest: 4F/VIpf81Vs+enVwMjiwC+gADQs=
+
+Name: res/drawable-hdpi-v4/sus_progressicon.png
+SHA1-Digest: Z/gRlU5gUbBAdZhtAIN2y9uzdS4=
+
+Name: res/drawable-hdpi-v4/anyshare_history_send_pressed.9.png
+SHA1-Digest: mm50tPOAqwTFlvvkP2dNUIlUVzs=
+
+Name: res/drawable-hdpi-v4/anyshare_activity_main_bg.png
+SHA1-Digest: FJH0Tu+V/EJazPrwj37BfdVbAVc=
+
+Name: res/drawable-hdpi-v4/anyshare_button_highlight_pressed.9.png
+SHA1-Digest: Sa3TH1x4Fefbcuz3Y/CzARMjDlg=
+
+Name: res/drawable-hdpi-v4/anyshare_titlebar_all_bg.png
+SHA1-Digest: BbjHHt5bCg9pV5/FleBpJGlf4bc=
+
+Name: res/drawable-hdpi-v4/anyshare_util_setting_checkbutton_on.png
+SHA1-Digest: VQBBTY50qlkIwSzgw/OuZV7pxCk=
+
+Name: res/drawable-hdpi-v4/anyshare_dialog_common_right_bg_normal.9.pn
+ g
+SHA1-Digest: xVznpZKj9wXgkYBwmGX2aPBC0pc=
+

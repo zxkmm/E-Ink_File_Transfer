@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/send_progress" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/tip_content" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentTop="true">
+        <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ProgressBar android:layout_gravity="center" android:layout_width="60.0dip" android:layout_height="60.0dip" android:indeterminateDrawable="@drawable/anyshare_progressbar_orange_bg" />
+            <TextView android:textSize="16.0sp" android:textColor="#ff000000" android:gravity="center" android:layout_gravity="center" android:id="@id/progressinfo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" android:text="@string/anyshare_progress_tip" />
+        </LinearLayout>
+    </FrameLayout>
+    <FrameLayout android:id="@id/progress_content" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/bottom_buttons" />
+    <LinearLayout android:gravity="center" android:id="@id/bottom_buttons" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <Button android:enabled="false" android:textSize="20.0sp" android:textColor="@color/anyshare_bottom_button_text_color" android:id="@id/btn_continue" android:background="@drawable/anyshare_send_button_bottom_left_bg" android:layout_width="0.0dip" android:layout_height="48.0dip" android:text="@string/anyshare_progress_continue_send" android:layout_weight="1.0" />
+        <Button android:textSize="20.0sp" android:textColor="#ffffffff" android:id="@id/quit" android:background="@drawable/anyshare_send_button_bottom_right_bg" android:layout_width="0.0dip" android:layout_height="48.0dip" android:text="@string/anyshare_progress_quit" android:layout_weight="1.0" />
+    </LinearLayout>
+</RelativeLayout>

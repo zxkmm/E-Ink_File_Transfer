@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/interactive_history" android:background="@drawable/anyshare_activity_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar android:layout_gravity="center" android:id="@id/progressBarLoading" android:visibility="visible" android:layout_width="60.0dip" android:layout_height="60.0dip" android:indeterminateDrawable="@drawable/anyshare_progressbar_orange_bg" />
+    <LinearLayout android:layout_gravity="center|top" android:orientation="vertical" android:id="@id/notused" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="113.0dip">
+        <ImageView android:layout_gravity="center" android:background="@drawable/anyshare_result_empty" android:layout_width="93.0dip" android:layout_height="93.0dip" />
+        <TextView android:textSize="16.0sp" android:textColor="#ff757575" android:gravity="center" android:paddingLeft="45.0dip" android:paddingRight="45.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="@string/anyshare_history_user_info_0" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/dataarea" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:id="@id/historyinfo" android:background="@drawable/anyshare_history_user_info_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="57.0dip">
+            <TextView android:textSize="15.0sp" android:textColor="#ff757575" android:id="@id/userinfo" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_marginTop="11.0dip" android:layout_marginRight="14.0dip" android:layout_marginBottom="11.0dip" />
+        </FrameLayout>
+        <TextView android:textSize="32.0sp" android:textColor="#ffa4a4a4" android:gravity="center|top" android:id="@id/no_history" android:paddingTop="100.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/anyshare_history_no_items" />
+        <ListView android:layout_gravity="center" android:id="@id/interactive_list" android:paddingTop="6.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:cacheColorHint="#00000000" android:divider="#00e6ecef" />
+    </LinearLayout>
+</FrameLayout>

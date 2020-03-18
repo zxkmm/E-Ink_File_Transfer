@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/apps_fragment" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:gravity="center" android:layout_gravity="center" android:paddingLeft="0.0dip" android:paddingRight="0.0dip" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <com.lenovo.anyshare.content.base.PinnedExpandableListView android:gravity="center" android:id="@id/apps_system_sort" android:layout_width="fill_parent" android:layout_height="fill_parent" android:cacheColorHint="#00000000" android:groupIndicator="@null" android:childDivider="#00c6cbcd" android:horizontalSpacing="0.0dip" android:verticalSpacing="0.0dip" android:divider="#00c6cbcd" android:dividerHeight="@dimen/common_listview_divider_height" />
+        <ProgressBar android:layout_gravity="center" android:id="@id/progress" android:layout_width="50.0dip" android:layout_height="50.0dip" android:indeterminateDrawable="@drawable/anyshare_progressbar_orange_bg" />
+        <TextView android:textSize="18.0sp" android:textColor="#ff333333" android:gravity="center" android:layout_gravity="center" android:id="@id/info" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/anyshare_content_app_info" />
+    </FrameLayout>
+</LinearLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/anyshare_activity_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/title_area" android:background="@drawable/anyshare_titlebar_bg" android:layout_width="fill_parent" android:layout_height="43.0dip">
+        <TextView android:textSize="20.0sp" android:textColor="#ff107c5d" android:gravity="center" android:layout_gravity="center" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/container_fragment" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>
