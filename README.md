@@ -1,4 +1,5 @@
 # B_W_UI_QieZi_Send
+DOWNLOAD FROM HERE https://github.com/zxkmm/B-W-UI-QieZi-Send/releases
 最新版本下载https://github.com/zxkmm/B-W-UI-QieZi-Send/releases
 <br>B-W-UI-WiFi file Transfer Made for E-INK screen Android device</br>
 <br>茄子快传魔改版，去除动画和彩色素材，适配E-INK屏幕。安卓9.0以上不兼容，关于不兼容的问题提交的issue会被关闭。</br>
