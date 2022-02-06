@@ -1,7 +1,7 @@
 # An File Transfer App Modified for E-Ink Android Devices
 DOWNLOAD FROM HERE https://github.com/zxkmm/E-Ink_File_Transfer/releases  
 最新版本下载https://github.com/zxkmm/E-Ink_File_Transfer/releases  
-<br>This is a modified app based an close souces app, not an open sources app. Modifing apps with non profit purpose (assume you will delete it in 24 hrs) is legal in Chinese law. Please remember to refer to your local laws when using this app. And I an not responsible for any legal risks.</br>
+<br>This is a modified app based an close sources app, not an open sources app. Modifing apps with non profit purpose (assume you will delete it in 24 hrs) is legal in Chinese law. Please remember to refer to your local laws when using this app. And I an not responsible for any legal risks.</br>
 <br>This app not supports Android 9.0 and above, considering this is an close sources modified app, I have no idea to fix this. Please do not post any issues about the compatibility. Thank you very much!
 
 
