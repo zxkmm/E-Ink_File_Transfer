@@ -9,7 +9,9 @@ DOWNLOAD FROM HERE https://github.com/zxkmm/E-Ink_File_Transfer/releases
 <br>Tested devices:</br>
 <br>ONYX BOOX C67ML carta</br>
 <br>iReader Smart 2</br>
+<be>Yotaphone yota2</be>
 
 <br>以下设备测试通过:</br>
 <br>ONYX BOOX C67ML carta</br>
 <br>iReader Smart 2</br>
+<be>Yotaphone yota2</be>
