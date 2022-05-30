@@ -1,4 +1,3 @@
-# 注意，本项目的协议产生了变更。山东农业大学的所有教职工不得使用该项目，如若山东农业大学的任何教职工使用，是违反协议的行为。
 # A File Transfer App Modified for E-Ink Android Devices
 DOWNLOAD FROM HERE https://github.com/zxkmm/E-Ink_File_Transfer/releases  
 最新版本下载https://github.com/zxkmm/E-Ink_File_Transfer/releases  
